@@ -405,7 +405,7 @@ body {
   font-size: 1.2rem;
 }
 
-.form-group {
+.contact-section .form-group {
   width: 300px; /* or any specific width */
   max-width: 100%; /* ensures responsiveness */
 }
