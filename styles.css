@@ -387,6 +387,14 @@ body {
   padding: 80px 50px; /* Padding to space out the content */
 }
 
+.form-wrapper {
+  width: 500%; /* Make form-wrapper 50% of the screen width */
+  margin: 0 auto; /* Center it */
+/*margin-left: 10px; Adds 10px space from the left side */
+  background-color: #f0f0f0; /* Optional: Give background color */
+  padding: 1.5rem; /* Optional: Add some padding */
+}
+
 .form-row {
   margin-bottom: 1rem;
 }
@@ -396,7 +404,7 @@ textarea.form-control {
 }
 
 .form-control {
-  width: 50%;
+  width: 100%;
   padding: 0.75rem;
   font-size: 1rem;
   border: 1px solid #ced4da;
