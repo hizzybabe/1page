@@ -388,7 +388,7 @@ body {
 }
 
 .form-wrapper {
-  width: 500%; /* Make form-wrapper 50% of the screen width */
+  width: 50%; /* Make form-wrapper 50% of the screen width */
   margin: 0 auto; /* Center it */
 /*margin-left: 10px; Adds 10px space from the left side */
   background-color: #f0f0f0; /* Optional: Give background color */
