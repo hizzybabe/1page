@@ -23,7 +23,7 @@ body {
 }
 
 .navbar-logo {
-  max-height: 50px;
+  max-height: 65px;
   width: auto;
   flex-shrink: 0;
 }
@@ -206,10 +206,6 @@ body {
     font-weight: bold;
   }
   
-
-  
-
-
   ul {
     padding-left: 0;
   }
