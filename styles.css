@@ -404,6 +404,7 @@ body {
   margin: 0 auto; /* Center it */
   background-color: #f0f0f0; /* Optional: Give background color */
   padding: 1.5rem; /* Optional: Add some padding */
+  box-sizing: border-box;
 }
 
 .form-row {
@@ -412,6 +413,7 @@ body {
 
 textarea.form-control {
   min-height: 120px;
+  box-sizing: border-box;
 }
 
 .form-control {
@@ -420,6 +422,7 @@ textarea.form-control {
   font-size: 1rem;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
+  box-sizing: border-box;
 }
 
 .contact-section h2 {
