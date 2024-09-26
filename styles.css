@@ -405,6 +405,11 @@ body {
   font-size: 1.2rem;
 }
 
+.form-group {
+  width: 300px; /* or any specific width */
+  max-width: 100%; /* ensures responsiveness */
+}
+
 .btn-primary {
   background-color: #FF6700;
   color: white;
