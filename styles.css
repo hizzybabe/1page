@@ -237,7 +237,7 @@ body {
   .card {
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1); /* Add shadow */
     transition: transform 0.3s ease;
-    min-height: 850px;
+    min-height: 850px !important;
 
         background-color: #004E98;
         color: white;
