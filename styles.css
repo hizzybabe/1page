@@ -179,7 +179,20 @@ body {
     
   }
 
- 
+  .features-section .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch; /* Ensures that all columns have equal height */
+  }
+  
+  .col-md-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  
   .features-section .col-md-4:hover {
     transform: translateY(-10px); /* Slight hover effect */
   }
