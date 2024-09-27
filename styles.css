@@ -237,13 +237,13 @@ body {
   .card {
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1); /* Add shadow */
     transition: transform 0.3s ease;
-    min-height: 850px !important;
 
         background-color: #004E98;
         color: white;
         padding: 30px; /* Add padding around the price text */
         border-radius: 5px; /* Optional: round the corners for better look */
         margin-bottom: 10px; /* Optional: space below the price */
+        min-height: 800px;
   }
 
 
