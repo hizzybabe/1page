@@ -246,7 +246,10 @@ body {
         min-height: 800px;
   }
 
-
+  .card .btn-primary {
+    align-self: center; /* Center the button horizontally */
+  margin-top: auto; /* Push the button to the bottom */
+  }
   
   .card:hover {
     transform: translateY(-5px); /* Slight hover effect */
